@@ -13,11 +13,6 @@ public class Acelerador implements ObjetoObservado
 
     }
 
-    /*Calls antoher method
-     *@author: Adrian González
-     *@Version 16/03/2020
-     *@param nothing
-     */
     public void pisarAcelerador(){
     notificar();
     }
